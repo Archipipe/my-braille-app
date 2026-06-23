@@ -3995,7 +3995,7 @@ void main() {
     <div class="input-group checkbox-group">
       <label>
         <input type="checkbox" id="show-russian" checked />
-        Показывать русский текст на модели
+        Показывать рельефный текст на модели
       </label>
     </div>
 
@@ -4019,7 +4019,7 @@ void main() {
     <div class="info-box">
       <h3>Рекомендации по печати</h3>
       <ul>
-        <li>Материал: PLA / ABS/li>
+        <li>Материал: PLA / ABS</li>
         <li>Высота слоя: 0.1-0.2 мм</li>
         <li>Заполнение: 20-30%</li>
         <li>Поддержки: не требуются</li>
